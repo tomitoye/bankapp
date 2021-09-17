@@ -1,0 +1,13 @@
+C:\Users\tomilola\Bankapp\obj\Debug\netcoreapp3.1\Bankapp.csprojAssemblyReference.cache
+C:\Users\tomilola\Bankapp\obj\Debug\netcoreapp3.1\Bankapp.AssemblyInfoInputs.cache
+C:\Users\tomilola\Bankapp\obj\Debug\netcoreapp3.1\Bankapp.AssemblyInfo.cs
+C:\Users\tomilola\Bankapp\obj\Debug\netcoreapp3.1\Bankapp.csproj.CoreCompileInputs.cache
+C:\Users\tomilola\Bankapp\bin\Debug\netcoreapp3.1\Bankapp.exe
+C:\Users\tomilola\Bankapp\bin\Debug\netcoreapp3.1\Bankapp.deps.json
+C:\Users\tomilola\Bankapp\bin\Debug\netcoreapp3.1\Bankapp.runtimeconfig.json
+C:\Users\tomilola\Bankapp\bin\Debug\netcoreapp3.1\Bankapp.runtimeconfig.dev.json
+C:\Users\tomilola\Bankapp\bin\Debug\netcoreapp3.1\Bankapp.dll
+C:\Users\tomilola\Bankapp\bin\Debug\netcoreapp3.1\Bankapp.pdb
+C:\Users\tomilola\Bankapp\obj\Debug\netcoreapp3.1\Bankapp.dll
+C:\Users\tomilola\Bankapp\obj\Debug\netcoreapp3.1\Bankapp.pdb
+C:\Users\tomilola\Bankapp\obj\Debug\netcoreapp3.1\Bankapp.genruntimeconfig.cache
